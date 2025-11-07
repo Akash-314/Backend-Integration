@@ -1,0 +1,34 @@
+{
+  "habits": [
+    {
+      "name": "🌅 Wake up early",
+      "description": "Start your day with focus and clarity.",
+      "done": false
+    },
+    {
+      "name": "📚 Study 2 hours",
+      "description": "Focus on learning or revising daily lessons.",
+      "done": false
+    },
+    {
+      "name": "💧 Drink 8 glasses of water",
+      "description": "Stay hydrated for good health.",
+      "done": false
+    },
+    {
+      "name": "🏃 Exercise 30 minutes",
+      "description": "Boost your energy and stay fit.",
+      "done": false
+    },
+    {
+      "name": "📖 Read 10 pages",
+      "description": "Feed your mind with new ideas.",
+      "done": false
+    },
+    {
+      "name": "🧘 Meditate for 10 minutes",
+      "description": "Relax and focus your mind.",
+      "done": false
+    }
+  ]
+}
